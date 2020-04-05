@@ -1,0 +1,2 @@
+﻿SAVE_CITIZEN_INSTANCE_COUNT_DESCRIPTION	Remove all animals to save citizen instance counts
+SAVE_CITIZEN_INSTANCE_ENABLE	Remove all animals

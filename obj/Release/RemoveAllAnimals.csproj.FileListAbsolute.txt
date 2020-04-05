@@ -1,0 +1,15 @@
+D:\Mod\RemoveAllAnimals\bin\Release\RemoveAllAnimals.dll
+D:\Mod\RemoveAllAnimals\bin\Release\RemoveAllAnimals.pdb
+D:\Mod\RemoveAllAnimals\bin\Release\0Harmony.dll
+D:\Mod\RemoveAllAnimals\bin\Release\Assembly-CSharp.dll
+D:\Mod\RemoveAllAnimals\bin\Release\ColossalManaged.dll
+D:\Mod\RemoveAllAnimals\bin\Release\ICities.dll
+D:\Mod\RemoveAllAnimals\bin\Release\System.Net.Http.dll
+D:\Mod\RemoveAllAnimals\bin\Release\UnityEngine.dll
+D:\Mod\RemoveAllAnimals\bin\Release\PopsApiWrapper.dll
+D:\Mod\RemoveAllAnimals\bin\Release\Assembly-CSharp-firstpass.dll
+D:\Mod\RemoveAllAnimals\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Mod\RemoveAllAnimals\obj\Release\RemoveAllAnimals.dll
+D:\Mod\RemoveAllAnimals\obj\Release\RemoveAllAnimals.pdb
+D:\Mod\RemoveAllAnimals\obj\Release\RemoveAllAnimals.csproj.CopyComplete
+D:\Mod\RemoveAllAnimals\obj\Release\RemoveAllAnimals.csprojAssemblyReference.cache
