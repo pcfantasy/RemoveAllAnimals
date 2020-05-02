@@ -13,3 +13,7 @@ obj/Release/RealCity.csproj.CopyComplete
 obj/Release/RealCity.csproj.FileListAbsolute.txt
 
 packages/*
+.vs/RemoveAllAnimals/v16/.suo
+.vs/RemoveAllAnimals/v16/Server/sqlite3/db.lock
+obj/Release/RemoveAllAnimals.csproj.CopyComplete
+obj/Release/RemoveAllAnimals.csproj.FileListAbsolute.txt

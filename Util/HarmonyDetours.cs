@@ -65,10 +65,10 @@ namespace RemoveAllAnimals.Util
                 new HarmonyMethod(citizenAISimulationStepPostFix));
             //5
             var CitizenManagerCreateCitizenInstance = typeof(CitizenManager).GetMethod("CreateCitizenInstance", BindingFlags.Public | BindingFlags.Instance, null, new Type[] { typeof(ushort).MakeByRefType(), typeof(Randomizer).MakeByRefType(), typeof(CitizenInfo), typeof(uint) }, null);
-            var citizenManagerCreateCitizenInstancePrefix = typeof(CustomCitizenAI).GetMethod("CitizenManagerCreateCitizenInstancePrefix");
+            var citizenManagerCreateCitizenInstancePrefix = typeof(CustomCitizenManager).GetMethod("CitizenManagerCreateCitizenInstancePrefix");
             harmony.ConditionalPatch(CitizenManagerCreateCitizenInstance,
-                null,
-                new HarmonyMethod(citizenManagerCreateCitizenInstancePrefix));
+                new HarmonyMethod(citizenManagerCreateCitizenInstancePrefix),
+                null);
             Loader.HarmonyDetourInited = true;
             DebugLog.LogToFileOnly("Harmony patches applied");
         }
